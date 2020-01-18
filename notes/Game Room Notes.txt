@@ -1,0 +1,9 @@
+Game Room TODOs
+
+- Make Levels / Area
+
+- Place cats 
+
+- Place associated battle triggers for cats
+
+- Global God object

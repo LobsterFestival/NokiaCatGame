@@ -1,0 +1,15 @@
+TODOs
+
+- Create Battle Script 
+ - Rock Paper Scizzzzzorsss
+ - RNG cat rolls for reaction type
+ - adjust meter acordingly
+ - set meter sprite level
+ 
+- Program buttons to send associated commands to battle script
+
+- Make some sort of sequence for a successful pet.
+
+- Make different cat animations depending on choice
+
+- Return to game when pets have been achived.
