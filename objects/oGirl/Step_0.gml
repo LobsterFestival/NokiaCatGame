@@ -74,10 +74,20 @@ if(!onFloor)
 {	
 	if (sign(vert_speed >= 0))
 	{
-		image_index = 0;
+		sprite_index = RoboJumping;
+		image_index = 2;
 	}
 	else 
 	{
-		image_index = 1;
+		sprite_index = RoboJumping;
+		image_index = 3;
 	}
 } 
+else 
+{
+	if(sign(horiz_speed) = 1)
+	{
+		image_speed = 2;
+		sprite_index = RoboWalk1;		
+	} 	
+}

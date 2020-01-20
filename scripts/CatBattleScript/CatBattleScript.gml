@@ -6,7 +6,7 @@ var catMood = irandom_range(0,3);
 show_debug_message("CatMood set to "+ string(catMood));
 show_debug_message("Player chose option " + string(argument0));
 var success;
-if (catMood == argument0) { success = true; }
+if (catMood <= argument0) { success = true; }
 else { success = false; }
 
 // ----- Set Meter ----- \\

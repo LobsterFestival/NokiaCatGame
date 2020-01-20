@@ -255,6 +255,14 @@
             }
         },
         {
+            "Key": "677db34c-8002-470e-b31b-cf642aba98e9",
+            "Value": {
+                "id": "bf9c2515-0c18-4e0d-ac32-1e8e2549715d",
+                "resourcePath": "sprites\\RoboJumping\\RoboJumping.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "708783a4-73ca-40cc-960e-17876b32c6d1",
             "Value": {
                 "id": "a803f7b6-dad7-4293-8b86-fdadaf45c067",
